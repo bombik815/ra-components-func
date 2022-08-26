@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-components-func/static/css/main.c5b31d20.css",
+    "main.js": "/ra-components-func/static/js/main.19f02474.js",
+    "static/media/item-blue.jpg": "/ra-components-func/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/ra-components-func/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/ra-components-func/index.html",
+    "main.c5b31d20.css.map": "/ra-components-func/static/css/main.c5b31d20.css.map",
+    "main.19f02474.js.map": "/ra-components-func/static/js/main.19f02474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b31d20.css",
+    "static/js/main.19f02474.js"
+  ]
+}
