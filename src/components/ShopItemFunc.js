@@ -5,7 +5,7 @@ export default function ShopItemFunc(props){
 	const { item } = props;
 	
 	ShopItemFunc.propTypes = {
-   		 item: PropTypes.object
+   	  item: PropTypes.object
   	}
 
 
