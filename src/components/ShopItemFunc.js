@@ -3,6 +3,10 @@ import PropType from 'prop-types';
 
 export default function ShopItemFunc(props){
 	const { item } = props;
+	
+	ShopItemFunc.propTypes = {
+   		 item: PropTypes.object
+  	}
 
 
 	return(
