@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3yhjrigpdnaad1g7/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-components-func/branch/main)
+
 [Страница интернет-магазина](https://bombik815.github.io/ra-components-func/)
 
 ===
